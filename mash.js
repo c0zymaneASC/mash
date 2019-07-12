@@ -6,8 +6,11 @@
 
 	2) Execute the function!
 */
+function mash(){
+console.log("House");
 
-
+}
+mash()
 
 
 
